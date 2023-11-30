@@ -37,6 +37,7 @@ echo "data dimasukkan";
     <a href="https://www.instagram.com/irenetheresha/?hl=id" class="logo">UAS WEB</a>
     </header>
 
+    <form action="" method="post" >
   <div class="container">
     <div class="title">Daftar Mahasiswa Baru</div>
     <div class="content">
@@ -112,7 +113,7 @@ echo "data dimasukkan";
 
 </body>
 
-<footer style="position: absolute; background-image :url(bg.jpg); width: 100%; text-align: center; padding:1%; bottom: -200px;">
+<footer style="position: absolute; background-image :url(bg.jpg); width: 100%; text-align: center; padding:1%; bottom: -450px;">
   <p class="cp-text">
       © Copyright 2023 Irene. All rights reserved.
   </p>

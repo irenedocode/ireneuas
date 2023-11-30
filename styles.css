@@ -45,13 +45,13 @@ nav a {
 
 
 .container{
-  position:relative;
-  top: 80px;
-  
-  max-width: 900px;
-  width: 100%;
+  position: relative;
+  left: -90px;
+  top: 230px;
+  bottom: 100px;
+  width: 150%;
   background-color: #000000;
-  padding: 25px 30px;
+  padding: 40px 82px;
   border-radius: 20px;
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
   border:1px solid rgba(255, 255, 255, 0.18);
@@ -100,7 +100,7 @@ form .input-box span.details{
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   height: 45px;
-  width: 100%;
+  width: 220%;
   outline: none;
   font-size: 16px;
   border-radius: 5px;
