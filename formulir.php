@@ -16,7 +16,6 @@ if(isset($_POST['submit'])){
     $sql1 = "insert into data (nama, nim, jurusan, email, password, jeniskelamin, lahir, alamat) values ('$nama','$nim','$jurusan','$email','$password','$jeniskelamin','$lahir','$alamat')";
     $q1 = mysqli_query($koneksi,$sql1);
   
-echo "data dimasukkan"; 
   }
 }
 
